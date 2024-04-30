@@ -5,7 +5,7 @@ export default [
     items: [
       {
         text: '面试题',
-        link: '/前端学习/面试题/Vue/01.生命周期.md'
+        link: '/前端学习/面试题/JS/01.数据类型.md'
       }
     ]
   },
